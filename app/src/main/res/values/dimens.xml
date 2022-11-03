@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fourteen_sp_text_size">14sp</dimen>
+    <dimen name="thirteen_sp_size">13sp</dimen>
+    <dimen name="et_and_spinner_height">45dp</dimen>
+</resources>
